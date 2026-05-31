@@ -4,7 +4,7 @@
     <img src="https://bongo.cat/meta/thumbnail.png">
   </a>  
 </p>
-Hit the bongos like Bongo Cat! https://bongo.cat](https://poetic-croquembouche-5f5036.netlify.app/)
+Hit the bongos like Bongo Cat! https://poetic-croquembouche-5f5036.netlify.app/
 
 ## About the meme
 Bongo Cat is a meme created by [me , actually not me i forked it downloaded it and redeployed it for my fun purpose).
