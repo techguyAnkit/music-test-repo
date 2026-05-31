@@ -1,10 +1,10 @@
 # Bongo Cat
 <p align="center">
-  <a href="[https://bongo.cat](https://poetic-croquembouche-5f5036.netlify.app/)">
+  <a href="https://poetic-croquembouche-5f5036.netlify.app/)](https://poetic-croquembouche-5f5036.netlify.app/)">
     <img src="https://bongo.cat/meta/thumbnail.png">
   </a>  
 </p>
-Hit the bongos like Bongo Cat! https://bongo.cat
+Hit the bongos like Bongo Cat! https://bongo.cat](https://poetic-croquembouche-5f5036.netlify.app/)
 
 ## About the meme
 Bongo Cat is a meme created by [me , actually not me i forked it downloaded it and redeployed it for my fun purpose).
