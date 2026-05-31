@@ -1,6 +1,6 @@
 # Bongo Cat
 <p align="center">
-  <a href="https://poetic-croquembouche-5f5036.netlify.app/)](https://poetic-croquembouche-5f5036.netlify.app/)">
+  <a href="https://poetic-croquembouche-5f5036.netlify.app/">
     <img src="https://bongo.cat/meta/thumbnail.png">
   </a>  
 </p>
